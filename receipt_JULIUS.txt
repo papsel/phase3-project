@@ -1,0 +1,4 @@
+Receipt for Customer: JULIUS
+-------------------------------
+Product: PEMBE 2KG, Quantity: 1, Total: 2100.0
+Total Amount: 2100.0

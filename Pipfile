@@ -1,0 +1,36 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+alembic = "*"
+bcrypt = "*"
+blinker = "*"
+certifi = "*"
+click = "*"
+distlib = "*"
+filelock = "*"
+flask = "*"
+flask-bcrypt = "*"
+flask-sqlalchemy = "*"
+greenlet = "*"
+importlib-metadata = "*"
+itsdangerous = "*"
+jinja2 = "*"
+mako = "*"
+markupsafe = "*"
+pipenv = "*"
+platformdirs = "*"
+sqlalchemy = "*"
+typer = "*"
+typing-extensions = "*"
+virtualenv = "*"
+werkzeug = "*"
+zipp = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
+python_full_version = "3.9.2"

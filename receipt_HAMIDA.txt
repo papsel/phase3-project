@@ -1,0 +1,5 @@
+Receipt for Customer: HAMIDA
+-------------------------------
+Product: KANGORE RICE, Quantity: 1, Total: 2550.0
+Product: PEMBE 2KG, Quantity: 1, Total: 2100.0
+Total Amount: 4650.0
